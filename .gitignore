@@ -27,3 +27,27 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# --- Eclipse ---
+.classpath
+.project
+.settings/
+
+# --- VS Code ---
+.vscode/
+
+# --- Compiled class file (File đã biên dịch) ---
+*.class
+out/
+target/
+build/
+
+# --- OS System Files (File rác hệ điều hành) ---
+.DS_Store
+Thumbs.db
